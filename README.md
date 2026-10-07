@@ -1,4 +1,4 @@
-# Aircraft ✈️
+
 
 A responsive multi-page website about aircraft: how modern engines work, the technology behind flight, and where it leads, from airplanes to space exploration. Built with plain HTML, CSS and JavaScript, with no frameworks and no build step.
 
